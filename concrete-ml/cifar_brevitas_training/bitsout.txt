@@ -1,0 +1,296 @@
+Testing network with 1 rounding bits
+Model 94: <class 'torch.Tensor'>
+
+Optimizer
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Max bit-width in the circuit:  13
+Files already downloaded and verified
+Device in use: cpu
+Torch accuracy top1: 87.95490506329114
+Concrete ML accuracy top1: 10.027689873417721
+Torch accuracy top5: 99.53520569620254
+Concrete ML accuracy top5: 50.069224683544306
+Testing network with 2 rounding bits
+Model 94: <class 'torch.Tensor'>
+
+Optimizer
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Max bit-width in the circuit:  13
+Files already downloaded and verified
+Device in use: cpu
+Torch accuracy top1: 87.95490506329114
+Concrete ML accuracy top1: 10.670490506329115
+Torch accuracy top5: 99.53520569620254
+Concrete ML accuracy top5: 50.375791139240505
+Testing network with 3 rounding bits
+Model 94: <class 'torch.Tensor'>
+
+Optimizer
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Max bit-width in the circuit:  13
+Files already downloaded and verified
+Device in use: cpu
+Torch accuracy top1: 87.95490506329114
+Concrete ML accuracy top1: 10.116693037974683
+Torch accuracy top5: 99.53520569620254
+Concrete ML accuracy top5: 60.72982594936709
+Testing network with 4 rounding bits
+Model 94: <class 'torch.Tensor'>
+
+Optimizer
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Max bit-width in the circuit:  12
+Files already downloaded and verified
+Device in use: cpu
+Torch accuracy top1: 87.95490506329114
+Concrete ML accuracy top1: 33.91020569620253
+Torch accuracy top5: 99.53520569620254
+Concrete ML accuracy top5: 67.58306962025317
+Testing network with 5 rounding bits
+Model 94: <class 'torch.Tensor'>
+
+Optimizer
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Max bit-width in the circuit:  12
+Files already downloaded and verified
+Device in use: cpu
+Torch accuracy top1: 87.95490506329114
+Concrete ML accuracy top1: 27.037183544303797
+Torch accuracy top5: 99.53520569620254
+Concrete ML accuracy top5: 45.29272151898734
+Testing network with 6 rounding bits
+Model 94: <class 'torch.Tensor'>
+
+Optimizer
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Max bit-width in the circuit:  12
+Files already downloaded and verified
+Device in use: cpu
+Torch accuracy top1: 87.95490506329114
+Concrete ML accuracy top1: 25.56368670886076
+Torch accuracy top5: 99.53520569620254
+Concrete ML accuracy top5: 40.348101265822784
+Testing network with 7 rounding bits
+Model 94: <class 'torch.Tensor'>
+
+Optimizer
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Max bit-width in the circuit:  12
+Files already downloaded and verified
+Device in use: cpu
+--- Circuit
+  13 bits integers
+  6 manp (maxi log2 norm2)
+  68ms to solve
+--- User config
+  9.094947e-13 error per pbs call
+  1.000000e+00 error per circuit call
+--- Complexity for the full circuit
+  1.284781e+10 Millions Operations
+--- Correctness for each Pbs call
+  1/-2147483648 errors (8.942680e-13)
+--- Correctness for the full circuit
+  1/3530980 errors (2.832075e-07)
+--- Parameters resolution
+  2x glwe_dimension
+  2**10 polynomial (1024)
+  735 lwe dimension 
+  keyswitch l,b=15,1
+  blindrota l,b=8,5
+  wopPbs : true
+    |cb_decomp l,b=7,4
+    |pp_decomp l,b=3,13
+---
+--- Circuit
+  13 bits integers
+  6 manp (maxi log2 norm2)
+  69ms to solve
+--- User config
+  9.094947e-13 error per pbs call
+  1.000000e+00 error per circuit call
+--- Complexity for the full circuit
+  1.284781e+10 Millions Operations
+--- Correctness for each Pbs call
+  1/-2147483648 errors (8.942680e-13)
+--- Correctness for the full circuit
+  1/3530980 errors (2.832075e-07)
+--- Parameters resolution
+  2x glwe_dimension
+  2**10 polynomial (1024)
+  735 lwe dimension 
+  keyswitch l,b=15,1
+  blindrota l,b=8,5
+  wopPbs : true
+    |cb_decomp l,b=7,4
+    |pp_decomp l,b=3,13
+---
+--- Circuit
+  13 bits integers
+  6 manp (maxi log2 norm2)
+  69ms to solve
+--- User config
+  9.094947e-13 error per pbs call
+  1.000000e+00 error per circuit call
+--- Complexity for the full circuit
+  1.284781e+10 Millions Operations
+--- Correctness for each Pbs call
+  1/-2147483648 errors (8.942680e-13)
+--- Correctness for the full circuit
+  1/3530980 errors (2.832075e-07)
+--- Parameters resolution
+  2x glwe_dimension
+  2**10 polynomial (1024)
+  735 lwe dimension 
+  keyswitch l,b=15,1
+  blindrota l,b=8,5
+  wopPbs : true
+    |cb_decomp l,b=7,4
+    |pp_decomp l,b=3,13
+---
+--- Circuit
+  12 bits integers
+  6 manp (maxi log2 norm2)
+  68ms to solve
+--- User config
+  9.094947e-13 error per pbs call
+  1.000000e+00 error per circuit call
+--- Complexity for the full circuit
+  1.143770e+10 Millions Operations
+--- Correctness for each Pbs call
+  1/-2147483648 errors (8.433478e-13)
+--- Correctness for the full circuit
+  1/3940051 errors (2.538038e-07)
+--- Parameters resolution
+  2x glwe_dimension
+  2**10 polynomial (1024)
+  734 lwe dimension 
+  keyswitch l,b=15,1
+  blindrota l,b=8,5
+  wopPbs : true
+    |cb_decomp l,b=7,4
+    |pp_decomp l,b=3,13
+---
+--- Circuit
+  12 bits integers
+  6 manp (maxi log2 norm2)
+  67ms to solve
+--- User config
+  9.094947e-13 error per pbs call
+  1.000000e+00 error per circuit call
+--- Complexity for the full circuit
+  1.143770e+10 Millions Operations
+--- Correctness for each Pbs call
+  1/-2147483648 errors (8.433478e-13)
+--- Correctness for the full circuit
+  1/3940051 errors (2.538038e-07)
+--- Parameters resolution
+  2x glwe_dimension
+  2**10 polynomial (1024)
+  734 lwe dimension 
+  keyswitch l,b=15,1
+  blindrota l,b=8,5
+  wopPbs : true
+    |cb_decomp l,b=7,4
+    |pp_decomp l,b=3,13
+---
+--- Circuit
+  12 bits integers
+  6 manp (maxi log2 norm2)
+  67ms to solve
+--- User config
+  9.094947e-13 error per pbs call
+  1.000000e+00 error per circuit call
+--- Complexity for the full circuit
+  1.143770e+10 Millions Operations
+--- Correctness for each Pbs call
+  1/-2147483648 errors (8.433478e-13)
+--- Correctness for the full circuit
+  1/3940051 errors (2.538038e-07)
+--- Parameters resolution
+  2x glwe_dimension
+  2**10 polynomial (1024)
+  734 lwe dimension 
+  keyswitch l,b=15,1
+  blindrota l,b=8,5
+  wopPbs : true
+    |cb_decomp l,b=7,4
+    |pp_decomp l,b=3,13
+---
+--- Circuit
+  12 bits integers
+  6 manp (maxi log2 norm2)
+  68ms to solve
+--- User config
+  9.094947e-13 error per pbs call
+  1.000000e+00 error per circuit call
+--- Complexity for the full circuit
+  1.141824e+10 Millions Operations
+--- Correctness for each Pbs call
+  1/-2147483648 errors (8.433478e-13)
+--- Correctness for the full circuit
+  1/3946765 errors (2.533720e-07)
+--- Parameters resolution
+  2x glwe_dimension
+  2**10 polynomial (1024)
+  734 lwe dimension 
+  keyswitch l,b=15,1
+  blindrota l,b=8,5
+  wopPbs : true
+    |cb_decomp l,b=7,4
+    |pp_decomp l,b=3,13
+---
+--- Circuit
+  12 bits integers
+  6 manp (maxi log2 norm2)Torch accuracy top1: 87.95490506329114
+Concrete ML accuracy top1: 26.611946202531644
+Torch accuracy top5: 99.53520569620254
+Concrete ML accuracy top5: 39.44818037974684
+Testing network with 8 rounding bits
+Model 94: <class 'torch.Tensor'>
+
+Optimizer
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Max bit-width in the circuit:  12
+Files already downloaded and verified
+Device in use: cpu
+Torch accuracy top1: 87.95490506329114
+Concrete ML accuracy top1: 26.11748417721519
+Torch accuracy top5: 99.53520569620254
+Concrete ML accuracy top5: 39.131724683544306
+
+  68ms to solve
+--- User config
+  9.094947e-13 error per pbs call
+  1.000000e+00 error per circuit call
+--- Complexity for the full circuit
+  1.071772e+10 Millions Operations
+--- Correctness for each Pbs call
+  1/-2147483648 errors (8.433478e-13)
+--- Correctness for the full circuit
+  1/4204729 errors (2.378274e-07)
+--- Parameters resolution
+  2x glwe_dimension
+  2**10 polynomial (1024)
+  734 lwe dimension 
+  keyswitch l,b=15,1
+  blindrota l,b=8,5
+  wopPbs : true
+    |cb_decomp l,b=7,4
+    |pp_decomp l,b=3,13
+---
