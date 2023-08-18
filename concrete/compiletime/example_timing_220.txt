@@ -1,0 +1,81 @@
+Compile Size: 150
+Compile Time: 0.19956016540527344 for vector length 4
+Sim Time: 0.05553793907165527 for vector length 4
+Run Time: 0.6075718402862549 for vector length 4
+
+Compile Time: 0.31066250801086426 for vector length 5
+Sim Time: 0.07786107063293457 for vector length 5
+Run Time: 0.5579099655151367 for vector length 5
+
+Compile Time: 0.4659702777862549 for vector length 6
+Sim Time: 0.12141585350036621 for vector length 6
+Run Time: 0.6370723247528076 for vector length 6
+
+Compile Time: 0.7140324115753174 for vector length 7
+Sim Time: 0.2215893268585205 for vector length 7
+Run Time: 0.7213683128356934 for vector length 7
+
+Compile Time: 1.13071608543396 for vector length 8
+Sim Time: 0.46338534355163574 for vector length 8
+Run Time: 0.8115403652191162 for vector length 8
+
+Compile Time: 1.9336364269256592 for vector length 9
+Sim Time: 1.0329899787902832 for vector length 9
+Run Time: 0.9198422431945801 for vector length 9
+
+Compile Time: 3.4787120819091797 for vector length 10
+Sim Time: 2.3187808990478516 for vector length 10
+Run Time: 1.0324342250823975 for vector length 10
+
+Compile Time: 6.31347393989563 for vector length 11
+Sim Time: 4.941342830657959 for vector length 11
+Run Time: 1.1706898212432861 for vector length 11
+
+Compile Time: 11.721088409423828 for vector length 12
+Sim Time: 9.83627200126648 for vector length 12
+Run Time: 1.3163824081420898 for vector length 12
+
+Compile Time: 21.370031595230103 for vector length 13
+Sim Time: 19.068137645721436 for vector length 13
+Run Time: 1.4687938690185547 for vector length 13
+
+Compile Time: 37.69545030593872 for vector length 14
+Sim Time: 35.023634910583496 for vector length 14
+Run Time: 1.655879020690918 for vector length 14
+
+Compile Time: 65.35242533683777 for vector length 15
+Sim Time: 61.59874773025513 for vector length 15
+Run Time: 1.850771188735962 for vector length 15
+
+Compile Time: 109.4667980670929 for vector length 16
+Sim Time: 104.05286407470703 for vector length 16
+Run Time: 2.2025949954986572 for vector length 16
+
+Compile Time: 179.34675288200378 for vector length 17
+Sim Time: 172.65170049667358 for vector length 17
+Run Time: 6.2026121616363525 for vector length 17
+
+Compile Time: 281.42882084846497 for vector length 18
+Sim Time: 273.5074508190155 for vector length 18
+Run Time: 6.36913800239563 for vector length 18
+
+Compile Time: 438.2634086608887 for vector length 19
+Sim Time: 427.2329595088959 for vector length 19
+Run Time: 6.960088491439819 for vector length 19
+
+Compile Time: 666.4728870391846 for vector length 20
+Sim Time: 652.3775796890259 for vector length 20
+Run Time: 7.52186393737793 for vector length 20
+
+Compile Time: 985.2481710910797 for vector length 21
+Sim Time: 969.0641355514526 for vector length 21
+Run Time: 8.166260719299316 for vector length 21
+
+Compile Time: 1438.8240821361542 for vector length 22
+Sim Time: 1408.989415884018 for vector length 22
+Run Time: 13.030723810195923 for vector length 22
+
+Compile Time: 2072.8259332180023 for vector length 23
+Sim Time: 2047.2249283790588 for vector length 23
+Run Time: 13.927557945251465 for vector length 23
+
